@@ -1,1 +1,1 @@
-Software Engineer - Python, node.js and Java
+Software Engineer - Python, Go and Cloud: AWS & Azure
