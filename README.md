@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a Computer Science student at the State University of Ceará (UECE), with a technical background in Computer Networks and experience in software development.
 
 Currently, I am steering my career towards Data Engineering and AI Engineering, studying and developing projects involving data, Machine Learning, and Artificial Intelligence applications. My experience in software development also allows me to work on building APIs, applications, and backend solutions.
